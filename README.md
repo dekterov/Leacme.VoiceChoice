@@ -5,6 +5,7 @@
 This application features the ability to modulate and play back the audio input from your microphone.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704324-ee9f8f00-2d96-11ea-8024-21a059a35aac.png)
 
 ## Application Compiling
 
